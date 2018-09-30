@@ -6,6 +6,6 @@ package hua.lee.algorithm.sort;
  * @author lijie
  * @create 2018-09-28 22:25
  **/
-public abstract class Sort {
+public abstract class BaseSort {
     public abstract void sort();
 }

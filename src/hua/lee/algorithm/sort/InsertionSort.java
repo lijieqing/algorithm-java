@@ -15,7 +15,7 @@ import java.util.Arrays;
  *
  * @create 2018-09-26 19:51
  **/
-public class InsertionSort extends Sort{
+public class InsertionSort extends BaseSort {
     public static void main(String[] args) {
         int[] test = new int[]{2, 5, 1, 7, 9, 3};
         insertionSort(test);
